@@ -10,6 +10,8 @@
 
 - 📄 Get to know about my experiences [https://www.linkedin.com/in/sineaddeokiesingh/](https://www.linkedin.com/in/sineaddeokiesingh/)
 
+- Currently working on [Power BI samples](https://github.com/ForTheLoveOfLearning/powerbi)
+
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
