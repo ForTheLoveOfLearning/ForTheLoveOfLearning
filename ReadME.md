@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fortheloveoflearning&label=Profile%20views&color=0e75b6&style=flat" alt="fortheloveoflearning" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [ForTheLoveOfLearning.github.io/projects](ForTheLoveOfLearning.github.io/projects)
+- 👨‍💻 All of my projects are available at [ForTheLoveOfLearning.github.io/projects](ForTheLoveOfLearning.github.io/projects) - Coming Soon
 
 - 💬 Ask me about **Microsoft Certifications, technical training, Power BI, project and change management.**
 
